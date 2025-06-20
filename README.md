@@ -18,7 +18,7 @@
 
 📫 How to reach me  
 - Email: `umarahamed852@gmail.com`   
-LinkedIn: [linkedin.com/in/umar-ahamed](https://www.linkedin.com/in/umar-ahamed/)
+LinkedIn: [linkedin.com/in/umar-ahamed-](https://www.linkedin.com/in/umar-ahamed-/)
 
 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
